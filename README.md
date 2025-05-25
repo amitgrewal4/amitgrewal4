@@ -28,14 +28,14 @@ I enjoy transforming complex problems into efficient solutions and love building
 ## 📌 Projects
 Here are a few highlights from my GitHub repositories:
 
-- 🔄 **[Integrated Data Dashboard from 22 Trackers](#)**  
-  Used Power BI, SQL, and Google Workspace to centralize and visualize performance data.
+- 🛫 **[1_Project_Aviation_Arms](#)**  
+  Designed workflows, implemented system and visualizations for crew scheduling and compliance tracking.
 
-- 🛫 **[Aviation Resource Management System Prototype](#)**  
-  Designed mock workflows and visualizations for crew scheduling and compliance tracking.
+- 🔄 **[4_project_pilot_induction_dashboard](#)**  
+  Used Power BI, SQL, and Google Workspace to automate Piot induction and visualize data.
 
-- 🔍 **[Customer Churn Prediction](#)**  
-  Machine learning project using Decision Trees, SVM, and KNN in Python and Weka.
+- 🔍 **[3_Project_social_media_analytics_coldplay](#)**  
+  Social media analytics for youtube & spotify to visualise public sentiments using R, Power BI.
 
 ---
 
