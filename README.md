@@ -28,7 +28,7 @@ I enjoy transforming complex problems into efficient solutions and love building
 ## 📌 Projects
 Here are a few highlights from my GitHub repositories:
 
-- 🛫 **[1_Project_Aviation_Arms](#)**  
+- 🛫 **[1_Project_Aviation_Arms](#) ![](1_Project_Aviation_Arms)**  
   Designed workflows, implemented system and visualizations for crew scheduling and compliance tracking.
 
 - 🔄 **[4_project_pilot_induction_dashboard](#)**  
