@@ -28,8 +28,10 @@ I enjoy transforming complex problems into efficient solutions and love building
 ## 📌 Projects
 Here are a few highlights from my GitHub repositories:
 
-- 🛫 **[1_Project_Aviation_Arms](#) ![](1_Project_Aviation_Arms)**  
-  Designed workflows, implemented system and visualizations for crew scheduling and compliance tracking.
+  - 🛫 [**1_Project_Aviation_Arms**](https://github.com/amitgrewal4/1_Project_Aviation_Arms)  
+  ![Project Screenshot](https://raw.githubusercontent.com/amitgrewal4/1_Project_Aviation_Arms/main/screenshot.png)  
+  Designed workflows, implemented system processes, and created visualizations for crew scheduling and compliance tracking.
+
 
 - 🔄 **[4_project_pilot_induction_dashboard](#)**  
   Used Power BI, SQL, and Google Workspace to automate Piot induction and visualize data.
