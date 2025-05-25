@@ -28,16 +28,17 @@ I enjoy transforming complex problems into efficient solutions and love building
 ## 📌 Projects
 Here are a few highlights from my GitHub repositories:
 
-  - 🛫 [**1_Project_Aviation_Arms**](https://github.com/amitgrewal4/1_Project_Aviation_Arms)  
-  ![Project Screenshot](https://raw.githubusercontent.com/amitgrewal4/1_Project_Aviation_Arms/main/screenshot.png)  
+- 🛫 [**1_Project_Aviation_Arms**](https://github.com/amitgrewal4/1_Project_Aviation_Arms)  
   Designed workflows, implemented system processes, and created visualizations for crew scheduling and compliance tracking.
 
-
-- 🔄 **[4_project_pilot_induction_dashboard](#)**  
-  Used Power BI, SQL, and Google Workspace to automate Piot induction and visualize data.
-
-- 🔍 **[3_Project_social_media_analytics_coldplay](#)**  
+- 🔍 [**2_Project_social_media_analytics_coldplay**](https://github.com/amitgrewal4/3_Project_social_media_analytics_coldplay)  
   Social media analytics for youtube & spotify to visualise public sentiments using R, Power BI.
+
+- 🔍 [**3_Project_Data_Visualisation_Seek.com.au**](https://github.com/amitgrewal4/2_Project_Data_Visualisation_Seek.com.au)
+  Analyzed 318,000+ Seek.com.au job postings to extract insights on job titles, companies, locations, salaries, and job types in the Australian job market.
+
+- 🔄 [**4_project_pilot_induction_dashboard**](https://github.com/amitgrewal4/4_project_pilot_induction_dashboard) 
+  Used Power BI, SQL, and Google Workspace to automate Piot induction and visualize data.
 
 ---
 
