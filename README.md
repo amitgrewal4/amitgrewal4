@@ -51,7 +51,7 @@ Here are a few highlights from my GitHub repositories:
 ---
 
 ## 📬 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amit-grewal/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amitgrewal4/)
 - 📧 Email: amitgrewal4@gmail.com
 - 🌐 Website: [Coming Soon]
 
