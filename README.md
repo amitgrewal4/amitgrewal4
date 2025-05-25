@@ -35,8 +35,8 @@ Here are a few highlights from my GitHub repositories:
   Social media analytics for youtube & spotify to visualise public sentiments using R, Power BI.
 
 - 🔍 [**3_Project_Data_Visualisation_Seek.com.au**](https://github.com/amitgrewal4/2_Project_Data_Visualisation_Seek.com.au)
-
-  Analyzed 318,000+ Seek.com.au job postings to extract insights on job titles, companies, locations, salaries, and job types in the Australian job market.
+  Analyzed 318,000+ Seek.com.au job postings to extract insights on job titles, companies, locations, salaries,
+  and job types in the Australian job market.
 
 - 🔄 [**4_project_pilot_induction_dashboard**](https://github.com/amitgrewal4/4_project_pilot_induction_dashboard) 
   Used Power BI, SQL, and Google Workspace to automate Piot induction and visualize data.
